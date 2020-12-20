@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注释</title>
+
+
+</head>
+<body>
+    <input type="button" id ="btn" value="刷新">
+    <input type="button" id ="goBaidu" value="去百度">
+
+    <script>
+        //reload定义一个按钮，点击，刷新当前页面
+        var btn = document.getElementById("btn");
+        btn.onclick = function () {
+            location.reload();
+        }
+
+        //获取href
+        var href = location.href;
+       //alert(href)
+
+        var goBaidu = document.getElementById("goBaidu");
+        btn.onclick = function () {
+            location.href="https://www.baidu.com"
+        }
+    </script>
+
+
+</body>
+</html>

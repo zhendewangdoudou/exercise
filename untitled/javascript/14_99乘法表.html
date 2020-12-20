@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>99乘法表</title>
+
+   <!-- css加表格边框-->
+    <style>
+        td{
+            border: 1px solid;
+        }
+    </style>
+
+    <script>
+        //加边框
+        document.write("<table  align = 'center'>");
+
+        //99乘法表循环
+        for(var i = 1;i <= 9;i ++){
+            document.write("<tr>");
+            for(var j = 1;j <= i;j ++){
+                document.write("<td>");
+                document.write(i + "*" + j  + "=" + (i*j) + "&nbsp;&nbsp;&nbsp;");
+                document.write("</td>")
+            }
+            document.write("</tr>")
+        }
+
+        document.write("</table>")
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

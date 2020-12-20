@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcd521cc-5da0-4a92-acd3-b233fddf9026" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1ZSRCa9SCaUiiQvClfW6rtk51ot" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jdbc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideawork\untitled\javascript" />
+      <recent name="E:\ideawork\untitled\xml\libs" />
+      <recent name="E:\ideawork\untitled\javascript\img" />
+      <recent name="E:\ideawork\untitled\xml\schema" />
+      <recent name="E:\ideawork\untitled\bootstrap" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="datasource" />
+      <recent name="utils" />
+      <recent name="jdbc" />
+      <recent name="fanshe" />
+      <recent name="基础加强.反射" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideawork\untitled\javascript\img2" />
+      <recent name="E:\ideawork\untitled\bootstrap\img" />
+      <recent name="E:\ideawork\untitled\javascript" />
+      <recent name="E:\ideawork\untitled\html" />
+      <recent name="E:\ideawork\untitled\javaweb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TCPClient">
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网络编程.综合案例文件上传.TCPClient" />
+      <module name="buyclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="网络编程.综合案例文件上传.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网络编程.综合案例文件上传.TCPServer" />
+      <module name="buyclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="网络编程.综合案例文件上传.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网络编程.综合案例文件上传.TCPServer0" />
+      <module name="buyclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="网络编程.综合案例文件上传.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File类与IO流.File类.demo01" />
+      <module name="buyclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File类与IO流.File类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="异常与线程.lambadabiaodashi.demo02" />
+      <module name="buyclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="异常与线程.lambadabiaodashi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer0" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.demo02 (1)" />
+        <item itemvalue="Application.demo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcd521cc-5da0-4a92-acd3-b233fddf9026" name="Default Changelist" comment="" />
+      <created>1574772665210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574772665210</updated>
+      <workItem from="1574772668936" duration="2579000" />
+      <workItem from="1574919264160" duration="12025000" />
+      <workItem from="1575377150447" duration="6622000" />
+      <workItem from="1575422417563" duration="8704000" />
+      <workItem from="1575508952261" duration="11969000" />
+      <workItem from="1575593307182" duration="6680000" />
+      <workItem from="1575870490180" duration="2798000" />
+      <workItem from="1575869635848" duration="3635000" />
+      <workItem from="1575958319658" duration="5395000" />
+      <workItem from="1576414972184" duration="781000" />
+      <workItem from="1576476579688" duration="6926000" />
+      <workItem from="1576495771223" duration="5327000" />
+      <workItem from="1576549416503" duration="2687000" />
+      <workItem from="1576572854299" duration="9362000" />
+      <workItem from="1576637345898" duration="1378000" />
+      <workItem from="1576846622440" duration="4867000" />
+      <workItem from="1576910044885" duration="16709000" />
+      <workItem from="1576982802103" duration="598000" />
+      <workItem from="1577083332012" duration="7645000" />
+      <workItem from="1577146373217" duration="1470000" />
+      <workItem from="1577168176060" duration="2758000" />
+      <workItem from="1577241027066" duration="11708000" />
+      <workItem from="1577323833921" duration="19198000" />
+      <workItem from="1577412434269" duration="6166000" />
+      <workItem from="1577496370502" duration="10327000" />
+      <workItem from="1577760953015" duration="4393000" />
+      <workItem from="1578135078952" duration="1686000" />
+      <workItem from="1578403730379" duration="2880000" />
+      <workItem from="1578470936033" duration="2137000" />
+      <workItem from="1578624866307" duration="13000" />
+      <workItem from="1579075462866" duration="6292000" />
+      <workItem from="1580266605418" duration="16655000" />
+      <workItem from="1581235821219" duration="7103000" />
+      <workItem from="1581324371680" duration="919000" />
+      <workItem from="1581475754227" duration="6392000" />
+      <workItem from="1581864737340" duration="32173000" />
+      <workItem from="1582198499680" duration="2016000" />
+      <workItem from="1582274239547" duration="17877000" />
+      <workItem from="1582452181370" duration="20401000" />
+      <workItem from="1582898344000" duration="2905000" />
+      <workItem from="1583401232853" duration="8893000" />
+      <workItem from="1583474599069" duration="14557000" />
+      <workItem from="1583558392813" duration="3863000" />
+      <workItem from="1583629127799" duration="8066000" />
+      <workItem from="1583715822272" duration="2283000" />
+      <workItem from="1583807970751" duration="5069000" />
+      <workItem from="1584830388042" duration="9614000" />
+      <workItem from="1585049240289" duration="89000" />
+      <workItem from="1585049361040" duration="1479000" />
+      <workItem from="1585062957156" duration="13455000" />
+      <workItem from="1587391710379" duration="692000" />
+      <workItem from="1587555445851" duration="20000" />
+      <workItem from="1587973760877" duration="1997000" />
+      <workItem from="1595087181628" duration="8730000" />
+      <workItem from="1603008665685" duration="2283000" />
+      <workItem from="1603030977878" duration="612000" />
+      <workItem from="1608472134272" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DMLdemo02_test2 - 2020.03.05 at 19h 02m 32s.xml">
+      <configuration name="DMLdemo02.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test3 - 2020.03.05 at 19h 04m 02s.xml">
+      <configuration name="DMLdemo02.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test3 - 2020.03.05 at 19h 04m 13s.xml">
+      <configuration name="DMLdemo02.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test4 - 2020.03.05 at 19h 08m 57s.xml">
+      <configuration name="DMLdemo02.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test5 - 2020.03.05 at 19h 12m 50s.xml">
+      <configuration name="DMLdemo02.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test6 - 2020.03.05 at 19h 22m 30s.xml">
+      <configuration name="DMLdemo02.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test6_2 - 2020.03.05 at 19h 24m 29s.xml">
+      <configuration name="DMLdemo02.test6_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test6_2 - 2020.03.05 at 19h 26m 12s.xml">
+      <configuration name="DMLdemo02.test6_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test6_2 - 2020.03.05 at 19h 27m 03s.xml">
+      <configuration name="DMLdemo02.test6_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DMLdemo02_test7 - 2020.03.05 at 19h 28m 23s.xml">
+      <configuration name="DMLdemo02.test7" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1603009546654">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603009546654" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1595178204793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595178204793" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1595178204792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595178204792" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1595178204792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595178204792" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1595178204793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595178204793" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1595178204793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595178204793" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1595178204793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595178204793" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1595178204793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595178204793" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1595178204793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595178204793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/基础加强/反射/demo04method.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPServer.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPServer0.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPServer0.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPServer0.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPServer0.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPServer0.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网络编程/综合案例文件上传/TCPClient.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

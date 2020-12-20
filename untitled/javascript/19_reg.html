@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注释</title>
+
+    <script>
+        //单行注释
+
+        /*
+        多行注释
+         */
+
+        var reg = new RegExp("\w{6,12}");
+
+        var reg2 = /^\w{6,12}$/;
+
+        var username = "张三";
+
+        var flag = reg2.test(username);
+        alert(flag);
+
+
+        alert(reg);
+        alert(reg2);
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

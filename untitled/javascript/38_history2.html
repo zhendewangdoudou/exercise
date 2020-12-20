@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注释</title>
+
+
+</head>
+<body>
+    <img id = "img" src="img2/10.png" width="100%">
+    <input type="button" id = "back" value="后退">
+
+    <script>
+        //在页面上使用img标签展示图片
+        //定义一个方法，修改图片对象的src属性
+        var num = 10;
+        function fun() {
+            num ++;
+            if(num>12){
+                num = 10;
+            }
+            var img = document.getElementById("img");
+            img.src = "img2/"+num+".png";
+        }
+        //定义一个定时器，每隔3秒调用方法一次
+        setInterval(fun,3000);
+
+        //获取history
+        var h1 = window.history();
+        var h2 = history;
+        alert(h1);
+        alert(h2);
+
+        var back = document.getElementById("back");
+        back.onclick = function () {
+            history.back();
+        }
+    </script>
+
+
+</body>
+</html>

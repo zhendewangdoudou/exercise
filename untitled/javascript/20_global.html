@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注释</title>
+
+    <script>
+        //单行注释
+
+        /*
+        多行注释
+         */
+
+        var str = "http://www.baidu.com?wd=你好再见";
+        var encode = encodeURI(str);
+        document.write(encode+"<br>");
+
+        var s = decodeURI(encode);
+        document.write(s+"<br>");
+
+
+        var str1 = "http://www.baidu.com?wd=你好再见";
+        var encode1 = encodeURIComponent(str1);
+        document.write(encode1+"<br>");
+
+        var s1= decodeURIComponent(encode1);
+        document.write(s1+"<br>");
+
+        var str = "123";
+        var number = parseInt(str);
+        alert(number+1);
+
+        var str1= "234abc";
+        var number1 = parseInt(str1);
+        alert(number1+1);
+
+        var a = "abv";
+        document.write(a == NaN);
+        document.write(NaN == NaN);
+        document.write(isNaN(a));
+/*
+        var iscode = "alert(123)";
+        alert(iscode);
+
+ */
+
+        var jscode = "alert(123)";
+        eval(jscode);
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

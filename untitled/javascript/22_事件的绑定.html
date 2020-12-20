@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注释</title>
+
+
+</head>
+<body>
+
+    <img  id= "light"src ="img/6.png" onclick="fun();">
+
+    <img  id= "light2"src ="img/6.png">
+
+
+    <script>
+
+        function fun() {
+            alert("点击");
+        }
+
+        function fun2() {
+            alert("第二次点击");
+        }
+
+        //获取light2对象
+        var light2 = document.getElementById("light2");
+        light2.onclick = fun2();
+
+    </script>
+
+
+
+</body>
+</html>
